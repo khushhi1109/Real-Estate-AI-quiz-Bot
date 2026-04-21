@@ -1,0 +1,28 @@
+# 🔐 Secrets
+.streamlit/secrets.toml
+.env
+
+# 🐍 Python
+__pycache__/
+*.pyc
+
+# 📦 Virtual Environment
+venv/
+
+# 📊 Data (optional - remove if needed)
+data/
+
+# 💻 OS
+.DS_Store
+Thumbs.db
+
+# 🛠️ IDE
+.vscode/
+.idea/
+
+# 🧪 Jupyter
+.ipynb_checkpoints/
+
+# 🧠 Cache / logs
+*.log
+.cache/
